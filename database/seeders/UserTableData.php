@@ -25,7 +25,7 @@ class UserTableData extends Seeder
             [
                 'name' => 'Kishan',
                 'email' => 'kishanthuyan1996@gmail.com',
-                'user_type' => 'admin',
+                'usertype' => 'admin',
                 'password' => Hash::make('kishan1996@'), 
             ],
         ]);
